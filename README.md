@@ -22,4 +22,4 @@
 
 ---
 
-> *“Minimal code, clear logic, and accessible learning—every solution is a step toward empowering students.”*
+> *“Everybody in this country should learn to program a computer, because it teaches you how to think.”* — **Steve Jobs**
