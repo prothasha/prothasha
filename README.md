@@ -17,7 +17,7 @@
 ---
 
 ## 📈 Achievements
-- 🎯 Participated in **20+ Codeforces contests**  
+- 🎯 Competed in **20+ Codeforces contests**
 - 🤝 Volunteered with **CodeClub**, inspiring school students to learn coding  
 
 ---
