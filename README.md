@@ -22,4 +22,10 @@
 
 ---
 
+## 🌐 Connections
+- [LinkedIn](https://www.linkedin.com/in/prothasha-deb-nath-9828aa368/)
+- [GitHub](https://github.com/prothasha)
+
+---
+
 > *“Everybody in this country should learn to program a computer, because it teaches you how to think.”* — **Steve Jobs**
