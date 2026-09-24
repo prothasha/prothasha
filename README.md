@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills
 - **Languages**: Python, C, C++, Java, Dart 
-- **Problem Solving**: Data structures, algorithms, OOP, contest challenges  
+- **Problem Solving**: Data structures, Algorithms, OOP, Contest challenges  
 
 ---
 
